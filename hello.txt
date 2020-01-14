@@ -1,4 +1,4 @@
-good git now
-еще строчка
+Новая строка
+Другая строка
 
-hello world
+hello, git!
