@@ -1,2 +1,5 @@
-good git now
-еще строчка
+Новая строка
+Другая строка
+
+hello, git!
+hello, git rebase!
